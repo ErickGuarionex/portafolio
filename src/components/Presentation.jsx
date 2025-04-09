@@ -7,7 +7,7 @@ export default function Presentation(){
                     <img src="/erick-img.png" alt="user-img"/>
                 </div>
 
-                <a href="#" target="_blank" rel="noopener" class="flex items-center transition md:justify-center md:hover:scale-105"> <div class="flex items-center "> <span class="relative inline-flex overflow-hidden rounded-full p-[1px]"> <span class="absolute inset-[-1000%] animate-[spin_2s_linear_infinite] bg-[conic-gradient(from_90deg_at_50%_50%,white_0%,white_50%,purple_100%)]"></span> <div class="inline-flex items-center justify-center w-full px-3 py-1 text-sm text-white-400 bg-indigo-100 rounded-full cursor-pointer dark:bg-white dark:text-indigo/80 backdrop-blur-3xl whitespace-nowrap font-bold"> Disponible para trabajar </div> </span> </div> </a>
+                <a href="#" target="_blank" rel="noopener" className="flex items-center transition md:justify-center md:hover:scale-105"> <div className="flex items-center "> <span className="relative inline-flex overflow-hidden rounded-full p-[1px]"> <span className="absolute inset-[-1000%] animate-[spin_2s_linear_infinite] bg-[conic-gradient(from_90deg_at_50%_50%,white_0%,white_50%,purple_100%)]"></span> <div className="inline-flex items-center justify-center w-full px-3 py-1 text-sm text-white-400 bg-indigo-100 rounded-full cursor-pointer dark:bg-white dark:text-indigo/80 backdrop-blur-3xl whitespace-nowrap font-bold"> Disponible para trabajar </div> </span> </div> </a>
             </div>
 
             <div className="my-6">
